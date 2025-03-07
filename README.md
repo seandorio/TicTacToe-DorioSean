@@ -2,10 +2,10 @@
 
 these are the packages you have to install in order to run it(if you have these packages already, you can directly run it)
 (These packages cover the MVC framework, OWIN for middleware, and JSON handling)
-Install-Package Microsoft.AspNet.Mvc
-Install-Package Microsoft.Owin
-Install-Package Owin.Host.SystemWeb
-Install-Package Newtonsoft.Json
+- Install-Package Microsoft.AspNet.Mvc
+- Install-Package Microsoft.Owin
+- Install-Package Owin.Host.SystemWeb
+- Install-Package Newtonsoft.Json
 
 Sequence of the Game:
 1. Home(Welcoming and button "play now")
